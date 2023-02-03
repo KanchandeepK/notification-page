@@ -1,0 +1,36 @@
+*{
+  cursor:pointer;
+}
+.notification{
+    width:50%;
+    margin:auto;
+    border:2px solid red;
+    align-items: center;
+    justify-content:center;
+    overflow:none;
+    padding:50px;
+}
+.mark{
+    color:purple;
+    float:right;
+}
+.number{
+    padding:3px;
+    background-color:rgb(158, 160, 237);
+    width:40px;
+
+}
+.read{
+    margin:auto;
+    
+}
+.post-1,.post-2,.post-3{
+    background-color:rgb(218, 234, 244);
+}
+.box{
+   background-color:rgb(224, 243, 243);
+   margin-left:25px;
+   width:50%;
+   padding:5px;
+   border-radius: 5px;
+}
